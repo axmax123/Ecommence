@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder (2)\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj": {}
+    "E:\\Ecommence\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj": {}
   },
   "projects": {
-    "E:\\New folder (2)\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj": {
+    "E:\\Ecommence\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj",
+        "projectUniqueName": "E:\\Ecommence\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj",
         "projectName": "Ecommence.WebApp",
-        "projectPath": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj",
+        "projectPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.WebApp\\Ecommence.WebApp.csproj",
         "packagesPath": "C:\\Users\\axmax\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.WebApp\\obj\\",
+        "outputPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axmax\\AppData\\Roaming\\NuGet\\NuGet.Config",

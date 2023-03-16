@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
+      "projectUniqueName": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
       "projectName": "Ecommence.Application",
-      "projectPath": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
+      "projectPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
       "packagesPath": "C:\\Users\\axmax\\.nuget\\packages\\",
-      "outputPath": "E:\\New folder (2)\\EcommenceSolution\\Ecommence.Application\\obj\\",
+      "outputPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\axmax\\AppData\\Roaming\\NuGet\\NuGet.Config",

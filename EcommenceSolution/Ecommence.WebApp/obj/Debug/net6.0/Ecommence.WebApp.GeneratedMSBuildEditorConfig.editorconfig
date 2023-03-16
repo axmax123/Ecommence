@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommence.WebApp
 build_property.RootNamespace = Ecommence.WebApp
-build_property.ProjectDir = E:\New folder (2)\EcommenceSolution\Ecommence.WebApp\
+build_property.ProjectDir = E:\Ecommence\EcommenceSolution\Ecommence.WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\New folder (2)\EcommenceSolution\Ecommence.WebApp
+build_property.MSBuildProjectDirectory = E:\Ecommence\EcommenceSolution\Ecommence.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/Error.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/Index.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/Privacy.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/_ViewImports.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/_ViewStart.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/New folder (2)/EcommenceSolution/Ecommence.WebApp/Pages/Shared/_Layout.cshtml]
+[E:/Ecommence/EcommenceSolution/Ecommence.WebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qmzis2glmf
