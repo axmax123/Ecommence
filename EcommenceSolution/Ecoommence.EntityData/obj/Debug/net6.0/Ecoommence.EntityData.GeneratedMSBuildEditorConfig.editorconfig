@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Ecommence.Application
-build_property.ProjectDir = E:\Ecommence\EcommenceSolution\Ecommence.Application\
+build_property.RootNamespace = Ecoommence.EntityData
+build_property.ProjectDir = E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\

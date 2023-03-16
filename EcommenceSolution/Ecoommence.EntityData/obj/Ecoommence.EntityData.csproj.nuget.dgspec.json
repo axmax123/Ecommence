@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj": {}
+    "E:\\Ecommence\\EcommenceSolution\\Ecoommence.EntityData\\Ecoommence.EntityData.csproj": {}
   },
   "projects": {
-    "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj": {
+    "E:\\Ecommence\\EcommenceSolution\\Ecoommence.EntityData\\Ecoommence.EntityData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
-        "projectName": "Ecommence.Application",
-        "projectPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\Ecommence.Application.csproj",
+        "projectUniqueName": "E:\\Ecommence\\EcommenceSolution\\Ecoommence.EntityData\\Ecoommence.EntityData.csproj",
+        "projectName": "Ecoommence.EntityData",
+        "projectPath": "E:\\Ecommence\\EcommenceSolution\\Ecoommence.EntityData\\Ecoommence.EntityData.csproj",
         "packagesPath": "C:\\Users\\axmax\\.nuget\\packages\\",
-        "outputPath": "E:\\Ecommence\\EcommenceSolution\\Ecommence.Application\\obj\\",
+        "outputPath": "E:\\Ecommence\\EcommenceSolution\\Ecoommence.EntityData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\axmax\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
