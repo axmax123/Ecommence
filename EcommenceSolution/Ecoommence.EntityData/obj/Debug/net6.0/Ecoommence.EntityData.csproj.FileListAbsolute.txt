@@ -1,0 +1,14 @@
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.csproj.AssemblyReference.cache
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.AssemblyInfoInputs.cache
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.AssemblyInfo.cs
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.csproj.CoreCompileInputs.cache
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\bin\Debug\net6.0\Ecoommence.EntityData.deps.json
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\bin\Debug\net6.0\Ecoommence.EntityData.runtimeconfig.json
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\bin\Debug\net6.0\Ecoommence.EntityData.dll
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\bin\Debug\net6.0\Ecoommence.EntityData.pdb
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.dll
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\refint\Ecoommence.EntityData.dll
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.pdb
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\Ecoommence.EntityData.genruntimeconfig.cache
+E:\Ecommence\EcommenceSolution\Ecoommence.EntityData\obj\Debug\net6.0\ref\Ecoommence.EntityData.dll
