@@ -13,7 +13,7 @@ namespace EshopSolution.Data.Configuration
     {
         public void Configure(EntityTypeBuilder<ProductXCategory> builder)
         {
-
+            //pc = productXcategory
             builder.HasKey(t => new { t.ProductId, t.CategoryId });
             builder.ToTable("ProductXCategory");
 

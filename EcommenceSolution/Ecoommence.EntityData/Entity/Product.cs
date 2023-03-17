@@ -14,7 +14,6 @@ namespace EshopSolution.Data.Entity
         public int Stock { get; set; }
         public int ViewCount { get; set; }
         public DateTime DateCreat { get; set; }
-        public String SeoAlias { get; set; }
 
         public List<ProductXCategory> ProductXCategories { get; set; }
 

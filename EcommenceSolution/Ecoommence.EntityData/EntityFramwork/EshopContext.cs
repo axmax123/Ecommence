@@ -1,4 +1,5 @@
-﻿using EshopSolution.Data.Configuration;
+﻿using Ecoommence.EntityData.Extentions;
+using EshopSolution.Data.Configuration;
 using EshopSolution.Data.Entity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
@@ -49,6 +50,10 @@ namespace EshopSolution.Data.EntityFramwork
             modelBuilder.ApplyConfiguration(new ContactConfig());
 
             //  base.OnModelCreating(modelBuilder);
+
+
+            //Data seeding
+          modelBuilder.Seed();
         }
 
         public DbSet<Product> Products { get; set; }
