@@ -34,6 +34,7 @@ namespace EshopSolution.Data.Configuration
 
             builder.HasOne(x => x.Category).WithMany(x => x.CategoryTranslations).HasForeignKey(x => x.CategoryId);
 
+
         }
     }
 }
