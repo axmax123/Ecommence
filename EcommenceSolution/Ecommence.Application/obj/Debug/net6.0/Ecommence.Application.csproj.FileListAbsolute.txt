@@ -1,0 +1,12 @@
+E:\Ecommence\EcommenceSolution\Ecommence.Application\bin\Debug\net6.0\Ecommence.Application.deps.json
+E:\Ecommence\EcommenceSolution\Ecommence.Application\bin\Debug\net6.0\Ecommence.Application.dll
+E:\Ecommence\EcommenceSolution\Ecommence.Application\bin\Debug\net6.0\Ecommence.Application.pdb
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.csproj.AssemblyReference.cache
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.AssemblyInfoInputs.cache
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.AssemblyInfo.cs
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.csproj.CoreCompileInputs.cache
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.dll
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\refint\Ecommence.Application.dll
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\Ecommence.Application.pdb
+E:\Ecommence\EcommenceSolution\Ecommence.Application\obj\Debug\net6.0\ref\Ecommence.Application.dll

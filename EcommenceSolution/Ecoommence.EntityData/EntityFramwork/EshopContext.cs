@@ -1,5 +1,10 @@
-﻿using EshopSolution.Data.Configuration;
+﻿using Ecoommence.EntityData.Configuration;
+using Ecoommence.EntityData.Extentions;
+using eShopSolution.Data.Entities;
+using EshopSolution.Data.Configuration;
 using EshopSolution.Data.Entity;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using System;
@@ -10,12 +15,14 @@ using System.Threading.Tasks;
 
 namespace EshopSolution.Data.EntityFramwork
 {
-    public class EshopContext : DbContext
+    public class EshopContext : IdentityDbContext<AppUser, AppRole, Guid>
     {
         public EshopContext(DbContextOptions options) : base(options)
         {
         //tạo ra các option use
         }
+
+
 
         // giúp trong việc tạo DB context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -49,6 +56,24 @@ namespace EshopSolution.Data.EntityFramwork
             modelBuilder.ApplyConfiguration(new ContactConfig());
 
             //  base.OnModelCreating(modelBuilder);
+
+
+            //Data seeding
+            modelBuilder.Seed();
+
+            // Add User and Role
+            modelBuilder.ApplyConfiguration(new AppUserConfig());
+            modelBuilder.ApplyConfiguration(new AppRoleConfig());
+
+            modelBuilder.Entity<IdentityUserClaim<Guid>>().ToTable("AppUserClaims");
+
+            modelBuilder.Entity<IdentityUserRole<Guid>>().ToTable("AppUserRoles").HasKey(x => new { x.UserId, x.RoleId });
+
+            modelBuilder.Entity<IdentityUserLogin<Guid>>().ToTable("AppUserLogins").HasKey(x => x.UserId);
+
+            modelBuilder.Entity<IdentityRoleClaim<Guid>>().ToTable("AppRoleClaims");
+
+            modelBuilder.Entity<IdentityUserToken<Guid>>().ToTable("AppUserTokens").HasKey(x => x.UserId);
         }
 
         public DbSet<Product> Products { get; set; }

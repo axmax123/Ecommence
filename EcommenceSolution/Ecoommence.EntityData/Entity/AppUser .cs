@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace EshopSolution.Data.Entity
 {
-    public class AppUser //: IdentityUser<Guid>
+    public class AppUser : IdentityUser<Guid>
     {
-       /* public string FirstName { get; set; }
+        public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
@@ -18,7 +19,7 @@ namespace EshopSolution.Data.Entity
 
         public List<Order> Orders { get; set; }
 
-        public List<Transaction> Transactions { get; set; }*/
+        public List<Transaction> Transactions { get; set; }
     
     }
 }

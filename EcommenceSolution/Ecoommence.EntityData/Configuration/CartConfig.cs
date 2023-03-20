@@ -19,8 +19,10 @@ namespace EshopSolution.Data.Configuration
             builder.Property(c => c.CartId).UseIdentityColumn();
 
             builder.HasOne(c => c.Product).WithMany(c => c.Carts).HasForeignKey(c => c.ProductId);
-            
-           // throw new NotImplementedException();
+
+            builder.HasOne(x => x.AppUser).WithMany(x => x.Carts).HasForeignKey(x => x.UserId);
+
+            // throw new NotImplementedException();
         }
     }
 }
