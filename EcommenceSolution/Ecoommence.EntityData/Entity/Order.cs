@@ -9,7 +9,7 @@ namespace EshopSolution.Data.Entity
 {
     public class Order
     {
-        public int OrderId { set; get; }
+        public int Id { set; get; }
         public DateTime OrderDate { set; get; }
         public Guid UserId { set; get; }
         public string ShipName { set; get; }
@@ -21,5 +21,7 @@ namespace EshopSolution.Data.Entity
        // public List<OrderDetail> OrderDetails { get; set; }
 
         public List<OrderDetail> Details { set; get; }
-        }
+
+        public AppUser AppUser { get; set; }
+    }
 }
